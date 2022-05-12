@@ -1,4 +1,4 @@
-### Hello Guys, me chamo Marcos Vinicius Navarro
+### Hello Guys, me chamo Marcos Vinicius Navarro ⚡
     Estudante do curso de tecnólogo em Gestão da tecnologia da informação !
 <div align="center">
   <a href="https://github.com/rafaballerini">
