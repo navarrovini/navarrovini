@@ -15,5 +15,6 @@ Estudante do curso de tecnólogo em Gestão da tecnologia da informação !
 </div>
    
 ##
+  
 
   ![Snake animation](https://github.com/navarrovini/navarrovini/blob/output/github-contribution-grid-snake.svg)
